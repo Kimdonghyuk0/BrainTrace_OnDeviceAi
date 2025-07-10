@@ -173,7 +173,7 @@ FastAPI 기반 REST API는 아래와 같은 Swagger UI 형태로 구성되어 �
 | **안예찬** | Front-End              | Note 패널, 소스 뷰어, 로컬 DB 연동 UI 구현                                                  |
 | **유정균** | AI                     | AI 모델 양자화 및 경량화                                                                    |
 | **정웅**   | 팀장 / Front-End & AI | 프로젝트 총괄, 프론트엔드 개발,<br>AI 및 Graph DB 연동                                       |
-=======
+
 ## 📃 라이선스
 
 ```
